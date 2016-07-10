@@ -31,7 +31,10 @@
     "bootstrap": "^3.3.6"
   },
   "devDependencies": {
+    "bootstrap-sass": "^3.3.6",
     "concurrently": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
     "jasmine-core": "2.4.1",
     "lite-server": "^2.2.0",
     "typescript": "^1.8.10",
